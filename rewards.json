@@ -1,0 +1,16 @@
+{
+    "rewards": [
+        {
+            "name": "school reward",
+            "points": 5
+        },
+        {
+            "name": "food reward",
+            "points": 10
+        },
+        {
+            "name": "school spirit reward",
+            "points": 20
+        }
+    ]
+}

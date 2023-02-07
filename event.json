@@ -1,0 +1,62 @@
+[
+    {
+        "eventType": "sport",
+        "events": [
+            {
+                "id": "s1",
+                "name": "Lacrosse",
+                "date": "2/16/23"
+            },
+            {
+                "id": "s2",
+                "name": "Football",
+                "date": "2/16/23"
+            },
+            {
+                "id": "s3",
+                "name": "Soccer",
+                "date": "2/6/23"
+            },
+            {
+                "id": "s4",
+                "name": "Baseball",
+                "date": "2/26/23"
+            },
+            {
+                "id": "s5",
+                "name": "Track",
+                "date": "2/26/23"
+            }
+        ]
+    },
+    {
+        "eventType": "non-sport",
+        "events": [
+            {
+                "id": "n1",
+                "name": "Robotics",
+                "date": "2/26/23"
+            },
+            {
+                "id": "n2",
+                "name": "FBLA",
+                "date": "2/6/23"
+            },
+            {
+                "id": "n3",
+                "name": "TSA",
+                "date": "2/16/23"
+            },
+            {
+                "id": "n4",
+                "name": "Academic Bowl",
+                "date": "2/16/23"
+            },
+            {
+                "id": "n5",
+                "name": "Science Olympiad",
+                "date": "2/6/23"
+            }
+        ]
+    }
+]

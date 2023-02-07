@@ -1,0 +1,175 @@
+[
+    {
+        "grade": 9,
+        "students": [
+            {
+                "id": 100000,
+                "name": "john smith",
+                "q1Points": 4,
+                "q2Points": 1,
+                "q3Points": 6,
+                "q4Points": 0,
+                "reward": "food reward"
+            },
+            {
+                "id": 100001,
+                "name": "charles hess",
+                "q1Points": 10,
+                "q2Points": 0,
+                "q3Points": 1,
+                "q4Points": 0,
+                "reward": "food reward"
+            },
+            {
+                "id": 100002,
+                "name": "kyra gonzales",
+                "q1Points": 2,
+                "q2Points": 0,
+                "q3Points": 0,
+                "q4Points": 0,
+                "reward": ""
+            },
+            {
+                "id": 100003,
+                "name": "allan leonard",
+                "q1Points": 7,
+                "q2Points": 0,
+                "q3Points": 0,
+                "q4Points": 0,
+                "reward": "school reward"
+            },
+            {
+                "id": 100004,
+                "name": "teddy franklin",
+                "q1Points": 8,
+                "q2Points": 0,
+                "q3Points": 0,
+                "q4Points": 0,
+                "reward": "school reward"
+            }
+        ]
+    },
+    {
+        "grade": 10,
+        "students": [
+            {
+                "id": 100005,
+                "name": "lorraine white",
+                "q1Points": 0,
+                "q2Points": 0,
+                "q3Points": 0,
+                "q4Points": 0,
+                "reward": ""
+            },
+            {
+                "id": 100006,
+                "name": "zoya hilton",
+                "q1Points": 0,
+                "q2Points": 0,
+                "q3Points": 1,
+                "q4Points": 0,
+                "reward": ""
+            },
+            {
+                "id": 100007,
+                "name": "antonia lawrence",
+                "q1Points": 0,
+                "q2Points": 0,
+                "q3Points": 0,
+                "q4Points": 0,
+                "reward": ""
+            },
+            {
+                "id": 100008,
+                "name": "kelsey rodgers",
+                "q1Points": 0,
+                "q2Points": 0,
+                "q3Points": 0,
+                "q4Points": 0,
+                "reward": ""
+            }
+        ]
+    },
+    {
+        "grade": 11,
+        "students": [
+            {
+                "id": 100009,
+                "name": "nikhil shah",
+                "q1Points": 0,
+                "q2Points": 0,
+                "q3Points": 0,
+                "q4Points": 0,
+                "reward": ""
+            },
+            {
+                "id": 100010,
+                "name": "keyaan fox",
+                "q1Points": 0,
+                "q2Points": 0,
+                "q3Points": 0,
+                "q4Points": 0,
+                "reward": ""
+            },
+            {
+                "id": 100011,
+                "name": "issac nixon",
+                "q1Points": 0,
+                "q2Points": 0,
+                "q3Points": 0,
+                "q4Points": 0,
+                "reward": ""
+            },
+            {
+                "id": 100012,
+                "name": "callum wong",
+                "q1Points": 0,
+                "q2Points": 0,
+                "q3Points": 0,
+                "q4Points": 0,
+                "reward": ""
+            }
+        ]
+    },
+    {
+        "grade": 12,
+        "students": [
+            {
+                "id": 100013,
+                "name": "betty norris",
+                "q1Points": 0,
+                "q2Points": 0,
+                "q3Points": 0,
+                "q4Points": 0,
+                "reward": ""
+            },
+            {
+                "id": 100014,
+                "name": "cain barnett",
+                "q1Points": 0,
+                "q2Points": 0,
+                "q3Points": 0,
+                "q4Points": 0,
+                "reward": ""
+            },
+            {
+                "id": 100015,
+                "name": "aya velazquez",
+                "q1Points": 0,
+                "q2Points": 0,
+                "q3Points": 0,
+                "q4Points": 0,
+                "reward": ""
+            },
+            {
+                "id": 100016,
+                "name": "tyrell sloan",
+                "q1Points": 0,
+                "q2Points": 0,
+                "q3Points": 0,
+                "q4Points": 0,
+                "reward": ""
+            }
+        ]
+    }
+]
